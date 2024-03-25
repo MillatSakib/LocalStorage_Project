@@ -45,3 +45,10 @@ const clearData = () => {
 }
 
 displayProductsFromLocalStorage();
+
+*/ 
+There has aslo some one another two localstorage methode. And that is remove and length. The syntax are given bellow
+
+localStorage.removeItem('key')
+localStorage.length();
+*/
